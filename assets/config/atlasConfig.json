@@ -1,0 +1,10 @@
+
+{
+    "appId": "multitenantapp-hgees",
+    "appUrl": "https://services.cloud.mongodb.com/groups/651ad9994c55990d7f2fd325/apps/65e5f95ef1128ebaaf979aac",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://westus.azure.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://westus.azure.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/651ad9994c55990d7f2fd325/explorer/DeckInspectorCluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
