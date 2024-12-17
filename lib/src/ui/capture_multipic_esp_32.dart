@@ -105,7 +105,7 @@ class ESP32CameraScreenState extends State<ESP32CameraScreen> {
                                           response.headers['content-type']
                                                   ?.contains('image/jpeg') ==
                                               true) {
-                                        // Get temporary directory - images will be lost when app closes
+                                        // Get temporary directory
                                         final directory =
                                             await getTemporaryDirectory();
 
